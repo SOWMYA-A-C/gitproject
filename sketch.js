@@ -10,7 +10,7 @@ function setup() {
 
 //rain= new Drop()
  }
-
+// learning 
 function draw() {
   background(0);
 
